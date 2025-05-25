@@ -18,3 +18,4 @@
 
 ## Kampf in Pirn
 Als die Party in Pirn ankommt, wird die Stadt gerade von einer Gruppe Uraks angegriffen.
+2 x Oger(Uraks), 2x Bloodrunner, 1xFury
