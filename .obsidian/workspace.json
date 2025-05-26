@@ -11,10 +11,12 @@
             "id": "3d4f49733ea90631",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "image",
+              "state": {
+                "file": "World/PNGS/pirn.png"
+              },
+              "icon": "lucide-image",
+              "title": "pirn"
             }
           }
         ]
@@ -138,27 +140,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Ideen/Encounter Ideen/Charwood Dorf.md",
+                "file": "World/PNGS/pirn.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Charwood Dorf"
-            }
-          },
-          {
-            "id": "9e34422ee3148390",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of pirn"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,48 +168,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d4f49733ea90631",
+  "active": "6d87f71412a39f1f",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "World/PNGS/Caldrien.jpg",
     "Sessions/Session 1/Session 1.md",
-    "Sessions/Session 1/Stats Assistance.md",
-    "Sessions/Session 1/Stats Monster.md",
-    "Urak.png",
-    "README.md",
-    "Fury.png",
-    "Bloodrunner.png",
-    "Sessions/Session 1/Pirn.md",
-    "pirn.png",
-    "Sessions/Session 1",
-    "World/Ideen/Grundidee.md",
-    "Welt/Pantheon/Lunarael.md",
-    "Welt/Pantheon/Verräter-Götter.md",
-    "Welt/Pantheon/Lunarael 1.md",
+    "Welt/Reiche/Die Koalition/Die Lichtung/Personen/Lash Havel.md",
+    "Welt/Reiche/Die Koalition/Die Lichtung/Personen/Gassan Parell.md",
+    "Welt/NPC Template.md",
+    "Welt/Reiche/Die Koalition/Die Lichtung/Orte/Pirn.md",
+    "Welt/Reiche/Die Koalition/Die Lichtung/Personen",
+    "Welt/Reiche/Die Koalition/Die Lichtung/Orte/Untitled.md",
+    "Welt/Reiche/Die Koalition/Die Lichtung/Orte",
+    "Welt/Reiche/Die Koalition/Die Lichtung/Die Lichtung.md",
+    "Welt/Reiche/Die Koalition/Carvahon.md",
+    "Welt/Reiche/Dunkelwald/Dunkelwald.md",
+    "Welt/Reiche/Die Koalition/Die Lichtung",
+    "Welt/Reiche/Drifaien",
+    "Welt/Reiche/Tyrnalion/Tyrnalion.md",
+    "Welt/Reiche/Tyrnalion",
+    "Welt/Reiche/Dunkelwald",
     "Welt/Historischer Kontext.md",
-    "Welt/Pantheon",
-    "Welt/Timeline.md",
-    "Welt/Kontinent.md",
-    "Welt/Reiche/Avarien.md",
-    "Caldrien.jpg",
-    "Welt/Politische Situation.md",
-    "Welt/Reiche/Valtara/Valtara.md",
-    "Welt/Reiche/Valtara",
-    "Welt/Reiche/Valtara/Atreres.md",
-    "Welt/Reiche/Valtara/Koraklon.md",
-    "Welt/Reiche/Valentis.md",
-    "World/Story World/Groups/Kaiserreich Valentis/Thane Mortem.md",
-    "Welt/Reiche/Carvahon.md",
-    "Welt/Reiche/Velmorra.md",
     "Welt/Reiche/Kaerbron.md",
-    "Welt/Reiche/Tyrnalion.md",
-    "Welt/Reiche/Dunkelwald.md",
+    "Welt/Reiche/Tharnak-Berge",
     "Welt/Reiche/Khazrûndan.md",
-    "Welt/Reiche",
-    "Welt",
-    "World/Story World/Orte/Valentis",
-    "World/Story World/Orte",
-    "World/Story World/Groups/Kaiserreich Valentis/Drachenwacht",
-    "World/Story World/Groups/Kaiserreich Valentis",
-    "World/Ideen/Encounter Ideen"
+    "Welt/Reiche/Valentis",
+    "Welt/Reiche/Die Koalition/Avarien.md",
+    "Welt/Reiche/Die Koalition",
+    "Sessions/Session 1/Monster/Urak.md",
+    "World/PNGS/Bloodrunner.png",
+    "World/PNGS",
+    "Sessions/Session 1/Monster/Bloodrunner.md",
+    "Sessions/Session 1/Monster/Fury.md",
+    "Sessions/Session 1/NPC Kämpfer/Fernkampf Guard.md",
+    "World/PNGS/Helping Soldiers 2.png",
+    "Sessions/Session 1/NPC Kämpfer/Guard.md",
+    "World/PNGS/Helping Soldiers 1.png",
+    "World/PNGS/Urak 1.png",
+    "World/PNGS/Fury 1.png",
+    "World/PNGS/Bloodrunner 1.png",
+    "Sessions/Session 1/Stats Assistance.md",
+    "Sessions/Session 1/Untitled.md",
+    "Sessions/Session 1/Stats Monster.md",
+    "Untitled.canvas",
+    "World/PNGS/Urak.png",
+    "README.md",
+    "World/PNGS/Fury.png",
+    "World/PNGS/pirn.png",
+    "World/Ideen/Grundidee.md",
+    "Welt/Pantheon/Lunarael.md"
   ]
 }
