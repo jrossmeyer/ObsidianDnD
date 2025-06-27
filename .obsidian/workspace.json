@@ -11,12 +11,14 @@
             "id": "3d4f49733ea90631",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "World/PNGS/pirn.png"
+                "file": "Sessions/Session 2/Session 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "pirn"
+              "icon": "lucide-file",
+              "title": "Session 2"
             }
           }
         ]
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/PNGS/pirn.png",
+                "file": "Sessions/Session 2/Session 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pirn"
+              "title": "Outline of Session 2"
             }
           }
         ],
@@ -164,57 +166,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "6d87f71412a39f1f",
+  "active": "3d4f49733ea90631",
   "lastOpenFiles": [
-    "World/PNGS/Caldrien.jpg",
-    "Sessions/Session 1/Session 1.md",
+    "Welt/Reiche/Die Koalition/Die Lichtung/Personen/Korga.md",
+    "Welt/Pantheon/Verräter-Götter.md",
     "Welt/Reiche/Die Koalition/Die Lichtung/Personen/Lash Havel.md",
     "Welt/Reiche/Die Koalition/Die Lichtung/Personen/Gassan Parell.md",
-    "Welt/NPC Template.md",
+    "Welt/Reiche/Die Koalition/Die Lichtung/Personen/Beazel die Heilerin.md",
+    "Welt/Reiche/Die Koalition/Die Lichtung/Personen/Anna und Sam Gil.md",
+    "CoinOfDelving.png",
+    "CloakOfProtection.png",
+    "Lantern(hooded).png",
+    "Sessions/Session 2/Session 2.md",
+    "Sessions/Session 2/Stat Blocks/3. Eingang zur Mine.md",
+    "OrcBlitzerMinion 2.png",
+    "OrcGarroter.png",
+    "OrcConduit.png",
+    "Sessions/Session 2/Stat Blocks/4. Große Halle.md",
+    "Sessions/Session 2/Stat Blocks/5. Ritualkammer.md",
+    "Sessions/Session 2/Stat Blocks/1. Am Waldeingang.md",
+    "Sessions/Session 2/Stat Blocks/2. Hütte.md",
+    "OrcRampart.png",
+    "OrcForceCallerMinion 1.png",
+    "OrcTerranova 1.png",
+    "Sessions/Session 1/Monster/Urak.md",
+    "OrcTerranova.png",
+    "Sessions/Session 2/Stat Blocks/Ambush.md",
+    "Sessions/Session 1/Session 1.md",
+    "Sessions/Session 1/Stats Assistance.md",
+    "Sessions/Session 1/NPC Kämpfer/Guard.md",
+    "Sessions/Session 2/Stat Blocks",
     "Welt/Reiche/Die Koalition/Die Lichtung/Orte/Pirn.md",
+    "Characters/Dennis.md",
+    "Characters/Magnus.md",
+    "Characters/Os.md",
+    "Characters/Template.md",
+    "Sessions/Session 2",
+    "Welt/NPC Template.md",
     "Welt/Reiche/Die Koalition/Die Lichtung/Personen",
     "Welt/Reiche/Die Koalition/Die Lichtung/Orte/Untitled.md",
     "Welt/Reiche/Die Koalition/Die Lichtung/Orte",
     "Welt/Reiche/Die Koalition/Die Lichtung/Die Lichtung.md",
     "Welt/Reiche/Die Koalition/Carvahon.md",
-    "Welt/Reiche/Dunkelwald/Dunkelwald.md",
     "Welt/Reiche/Die Koalition/Die Lichtung",
     "Welt/Reiche/Drifaien",
-    "Welt/Reiche/Tyrnalion/Tyrnalion.md",
     "Welt/Reiche/Tyrnalion",
     "Welt/Reiche/Dunkelwald",
-    "Welt/Historischer Kontext.md",
-    "Welt/Reiche/Kaerbron.md",
     "Welt/Reiche/Tharnak-Berge",
-    "Welt/Reiche/Khazrûndan.md",
     "Welt/Reiche/Valentis",
-    "Welt/Reiche/Die Koalition/Avarien.md",
-    "Welt/Reiche/Die Koalition",
-    "Sessions/Session 1/Monster/Urak.md",
-    "World/PNGS/Bloodrunner.png",
-    "World/PNGS",
-    "Sessions/Session 1/Monster/Bloodrunner.md",
-    "Sessions/Session 1/Monster/Fury.md",
-    "Sessions/Session 1/NPC Kämpfer/Fernkampf Guard.md",
-    "World/PNGS/Helping Soldiers 2.png",
-    "Sessions/Session 1/NPC Kämpfer/Guard.md",
-    "World/PNGS/Helping Soldiers 1.png",
-    "World/PNGS/Urak 1.png",
-    "World/PNGS/Fury 1.png",
-    "World/PNGS/Bloodrunner 1.png",
-    "Sessions/Session 1/Stats Assistance.md",
-    "Sessions/Session 1/Untitled.md",
-    "Sessions/Session 1/Stats Monster.md",
-    "Untitled.canvas",
-    "World/PNGS/Urak.png",
-    "README.md",
-    "World/PNGS/Fury.png",
-    "World/PNGS/pirn.png",
-    "World/Ideen/Grundidee.md",
-    "Welt/Pantheon/Lunarael.md"
+    "Untitled.canvas"
   ]
 }
