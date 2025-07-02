@@ -65,3 +65,9 @@ Blitzer ~2-3
 
 
 
+
+# Notes
+- haben der Heilerin angeboten zu suchen und ein bisschen was gefunden
+- waren bei der Suche nach Rist unerfolgreich
+- haben erst nach den Jungs gesucht 
+- früher nachmittag

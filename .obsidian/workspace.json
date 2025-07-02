@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 2/Session 2.md",
+                "file": "Sessions/Session 2/Stat Blocks/3. Eingang zur Mine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 2"
+              "title": "3. Eingang zur Mine"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 288.5
   },
   "right": {
     "id": "f46a8aa3364db49c",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 2/Session 2.md",
+                "file": "Sessions/Session 2/Stat Blocks/3. Eingang zur Mine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 2"
+              "title": "Outline of 3. Eingang zur Mine"
             }
           }
         ],
@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,43 +172,43 @@
   },
   "active": "3d4f49733ea90631",
   "lastOpenFiles": [
-    "Welt/Reiche/Die Koalition/Die Lichtung/Personen/Tibalt Throgsden.md",
+    "Sessions/Session 2/Session 2.md",
+    "Sessions/Session 2/Stat Blocks/3. Eingang zur Mine.md",
+    "Sessions/Session 2/Stat Blocks/2. Hütte.md",
+    "Welt/Reiche/Die Koalition/Die Lichtung/Personen/Beazel die Heilerin.md",
+    "Sessions/Session 2/Stat Blocks/1. Am Waldeingang.md",
     "Welt/Reiche/Die Koalition/Die Lichtung/Personen/Naugrem.md",
+    "Welt/Reiche/Die Koalition/Die Lichtung/Orte/Pirn.md",
+    "Welt/Historischer Kontext.md",
+    "Welt/Reiche/Die Koalition/Die Lichtung/Personen/Anna und Sam Gil.md",
+    "Welt/Reiche/Die Koalition/Die Lichtung/Personen/Gassan Parell.md",
+    "Welt/Reiche/Die Koalition/Die Lichtung/Personen/Lash Havel.md",
+    "Characters/Os.md",
+    "Characters/Magnus.md",
+    "Characters/Dennis.md",
+    "Welt/Kontinent.md",
+    "Welt/Reiche/Die Koalition/Die Lichtung/Personen/Tibalt Throgsden.md",
     "Welt/Reiche/Die Koalition/Die Lichtung/Orte/St.Trigadnis Kirche.md",
     "Characters/Vladislav.md",
     "Characters/Pandoras Actor.md",
     "Characters/Adran Iathanar.md",
     "Welt/Reiche/Die Koalition/Die Lichtung/Personen/Korga.md",
     "Welt/Pantheon/Verräter-Götter.md",
-    "Welt/Reiche/Die Koalition/Die Lichtung/Personen/Lash Havel.md",
-    "Welt/Reiche/Die Koalition/Die Lichtung/Personen/Gassan Parell.md",
-    "Welt/Reiche/Die Koalition/Die Lichtung/Personen/Beazel die Heilerin.md",
-    "Welt/Reiche/Die Koalition/Die Lichtung/Personen/Anna und Sam Gil.md",
     "CoinOfDelving.png",
     "CloakOfProtection.png",
     "Lantern(hooded).png",
-    "Sessions/Session 2/Session 2.md",
-    "Sessions/Session 2/Stat Blocks/3. Eingang zur Mine.md",
     "OrcBlitzerMinion 2.png",
     "OrcGarroter.png",
     "OrcConduit.png",
     "Sessions/Session 2/Stat Blocks/4. Große Halle.md",
     "Sessions/Session 2/Stat Blocks/5. Ritualkammer.md",
-    "Sessions/Session 2/Stat Blocks/1. Am Waldeingang.md",
-    "Sessions/Session 2/Stat Blocks/2. Hütte.md",
     "OrcRampart.png",
     "OrcForceCallerMinion 1.png",
     "OrcTerranova 1.png",
     "Sessions/Session 1/Monster/Urak.md",
     "OrcTerranova.png",
     "Sessions/Session 2/Stat Blocks/Ambush.md",
-    "Sessions/Session 1/Session 1.md",
-    "Sessions/Session 1/Stats Assistance.md",
-    "Sessions/Session 1/NPC Kämpfer/Guard.md",
     "Sessions/Session 2/Stat Blocks",
-    "Welt/Reiche/Die Koalition/Die Lichtung/Orte/Pirn.md",
-    "Characters/Dennis.md",
-    "Characters/Magnus.md",
     "Sessions/Session 2",
     "Welt/Reiche/Die Koalition/Die Lichtung/Personen",
     "Welt/Reiche/Die Koalition/Die Lichtung/Orte",
