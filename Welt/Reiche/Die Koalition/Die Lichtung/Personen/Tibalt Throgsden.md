@@ -1,1 +1,0 @@
-Oberakolyt der [[St.Trigadnis Kirche]]

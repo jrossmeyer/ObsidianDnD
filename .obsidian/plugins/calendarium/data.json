@@ -1,0 +1,282 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Caldrien",
+      "description": null,
+      "id": "ID_3bda8b2989eb",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Montag",
+            "id": "ID_b8f8bad82808",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Dienstag",
+            "id": "ID_384b8b9a1b2b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Mittwoch",
+            "id": "ID_db6a68589be8",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Donnerstag",
+            "id": "ID_1b5b391a287a",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Freitag",
+            "id": "ID_5899089b0998",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Samstag",
+            "id": "ID_596b8ba8cb3a",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Sonntag",
+            "id": "ID_d929d97a2bab",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "Deepwinter",
+            "type": "month",
+            "length": 28,
+            "id": "ID_9ba93afb99bb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Claws of Cold",
+            "type": "month",
+            "length": 28,
+            "id": "ID_5ac9185aab29",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Claw of Sunset",
+            "type": "month",
+            "length": 28,
+            "id": "ID_39fa994bda3a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Claw of Storm",
+            "type": "month",
+            "length": 28,
+            "id": "ID_1a0b3ba9c818",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "The Melting",
+            "type": "month",
+            "length": 28,
+            "id": "ID_388ad91a685b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Time of Flowers",
+            "type": "month",
+            "length": 28,
+            "id": "ID_990a285bea08",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Summertide",
+            "type": "month",
+            "length": 28,
+            "id": "ID_29080bd849ca",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Highsun",
+            "type": "month",
+            "length": 28,
+            "id": "ID_abbb5919d94b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "The Fading",
+            "type": "month",
+            "length": 28,
+            "id": "ID_fbb8ebbbba09",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Leaffall",
+            "type": "month",
+            "length": 28,
+            "id": "ID_59ab5a79fb8a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "The Rotting",
+            "type": "month",
+            "length": 28,
+            "id": "ID_4a1ba97969fb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Drawing Down",
+            "type": "month",
+            "length": 28,
+            "id": "ID_59a9cac8cac8",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Vaen",
+            "cycle": 24,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#292b4a",
+            "id": "ID_3bf8e88b3a9a"
+          },
+          {
+            "name": "Bralgir",
+            "cycle": 56,
+            "offset": "14",
+            "faceColor": "#14bfed",
+            "shadowColor": "#20268d",
+            "id": "ID_fa2ad8c91be8"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": []
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_d8696a28dac8",
+            "name": "Winter",
+            "type": "Periodic",
+            "kind": "Winter",
+            "duration": 84,
+            "peak": 0,
+            "color": "#0bcfe9",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_889b99c899eb",
+            "name": "Spring",
+            "type": "Periodic",
+            "kind": "Spring",
+            "duration": 84,
+            "peak": 0,
+            "color": "#56ed5b",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_ca38995b9a4a",
+            "name": "Summer",
+            "type": "Periodic",
+            "kind": "Summer",
+            "duration": 84,
+            "peak": 0,
+            "color": "#e74d0e",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_685a3b79db5b",
+            "name": "Autumn",
+            "type": "Periodic",
+            "kind": "Autumn",
+            "duration": 84,
+            "peak": 0,
+            "color": "#cd0212",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          }
+        ],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1,
+          "tempUnits": "Imperial",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      },
+      "current": {
+        "day": 8,
+        "month": 5,
+        "year": 399
+      },
+      "events": [],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_3bda8b2989eb",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}

@@ -1,0 +1,1 @@
+![[Helping Soldiers 2.png]]

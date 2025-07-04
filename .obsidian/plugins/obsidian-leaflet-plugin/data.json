@@ -1,5 +1,303 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "Caldrien",
+      "lastAccessed": 1751587866090,
+      "markers": [
+        {
+          "id": "ID_c8a86af92b29",
+          "type": "default",
+          "loc": [
+            1407.4845284329983,
+            1553.0605611954968
+          ],
+          "layer": "%5B%5BCaldrien.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78ebbb3bf999",
+          "type": "default",
+          "loc": [
+            799.3705132988067,
+            1564.3744981464217
+          ],
+          "layer": "%5B%5BCaldrien.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9692b98d8c8",
+          "type": "Region ",
+          "loc": [
+            1076.9124285975865,
+            1401.5493623762522
+          ],
+          "link": "Valentis",
+          "layer": "%5B%5BCaldrien.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Das Kaiserreich Valentis",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9da7b2a0a09",
+          "type": "Region ",
+          "loc": [
+            469.35136961672106,
+            901.7077392094726
+          ],
+          "link": "Carvahon",
+          "layer": "%5B%5BCaldrien.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b98ab6a4809",
+          "type": "Region ",
+          "loc": [
+            321.889157922317,
+            1275.1263134187109
+          ],
+          "link": "Velmorra",
+          "layer": "%5B%5BCaldrien.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b480aeb9878",
+          "type": "Region ",
+          "loc": [
+            421.7829142314293,
+            447.4214482925014
+          ],
+          "link": "Avarien",
+          "layer": "%5B%5BCaldrien.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c88b79bbdad9",
+          "type": "Region ",
+          "loc": [
+            183.94063730497146,
+            749.4861548184456
+          ],
+          "link": "Drifaien",
+          "layer": "%5B%5BCaldrien.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39e8f8da9ada",
+          "type": "Region ",
+          "loc": [
+            766.6542157747936,
+            318.98448646257236
+          ],
+          "link": "Valtara",
+          "layer": "%5B%5BCaldrien.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Das Reich Valtara",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_481a8b1b287a",
+          "type": "Region ",
+          "loc": [
+            978.3338422393412,
+            647.2122778057243
+          ],
+          "link": "Tharnak-Berge",
+          "layer": "%5B%5BCaldrien.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Die Tharnak-Berge",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_199a1ab88b7a",
+          "type": "Region ",
+          "loc": [
+            845.1421671605247,
+            1120.526266771574
+          ],
+          "link": "Die verbrannten Lande",
+          "layer": "%5B%5BCaldrien.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58d9ba5a1b7a",
+          "type": "Region ",
+          "loc": [
+            675.5722661378693,
+            1390.4480534428544
+          ],
+          "link": "Dunkelwald",
+          "layer": "%5B%5BCaldrien.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Der Dunkelwald",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_095b68187a6a",
+          "type": "Region ",
+          "loc": [
+            661.3017295222817,
+            1754.3527786276536
+          ],
+          "link": "Tyrnalion",
+          "layer": "%5B%5BCaldrien.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Tyrnalion-Wald",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19ebc95a6ab8",
+          "type": "City",
+          "loc": [
+            844.3370516519319,
+            795.6931067455438
+          ],
+          "link": "Berona",
+          "layer": "%5B%5BCaldrien.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Die freie Stadt Berona",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2869e9c80bb8",
+          "type": "Forest",
+          "loc": [
+            782.4810784276974,
+            697.3263252869544
+          ],
+          "link": "Ölm",
+          "layer": "%5B%5BCaldrien.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8788909a9cb",
+          "type": "Town",
+          "loc": [
+            696.5316396615051,
+            662.9093779428259
+          ],
+          "link": "Pirn",
+          "layer": "%5B%5BCaldrien.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Das kleine Dorf Pirn am Ölm",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8ca7a68eb8a",
+          "type": "City",
+          "loc": [
+            646.2364187313976,
+            757.2362732374252
+          ],
+          "link": "Camylin",
+          "layer": "%5B%5BCaldrien.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Die Stadt Camylin",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba38c8d90a08",
+          "type": "Dungeon",
+          "loc": [
+            814.3681224759674,
+            642.5146404810008
+          ],
+          "layer": "%5B%5BCaldrien.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Mine im Ölm, die von Uraks als Lager genutzt wurde",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "1. World Almanac/Caldrien/Caldrien.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
@@ -10,7 +308,136 @@
       "y": -2
     }
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "Town",
+      "iconName": "home",
+      "color": "#bd4242",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Region ",
+      "iconName": "map",
+      "color": "#ed0c0c",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Encounter",
+      "iconName": "bomb",
+      "color": "#eb25ef",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Point of Interest",
+      "iconName": "info",
+      "color": "#1870cd",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "City",
+      "iconName": "star",
+      "color": "#e86e2c",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Castle",
+      "iconName": "dot-circle",
+      "color": "#aa1d1d",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Forest",
+      "iconName": "tree",
+      "color": "#3fac11",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Dungeon",
+      "iconName": "dungeon",
+      "color": "#716a6a",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
