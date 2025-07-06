@@ -98,3 +98,6 @@ Die Party triggert einen Encounter
 - Eine Vorhut befragt, die Party nach ihren Plänen und überprüft die Identitäten der Gruppe
 
 # Notes
+
+- Party ist blessed
+- Dohma is am Zug

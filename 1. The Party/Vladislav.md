@@ -1,8 +1,8 @@
 ---
 level: 4
-hp: 22
+hp: 26
 ac: 10
-modifier: 1
+modifier: 2
 ---
 
 # Beschreibung
