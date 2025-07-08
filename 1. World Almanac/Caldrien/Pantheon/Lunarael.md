@@ -33,7 +33,7 @@ Efialtir: Der Verräter(in Valentis: Der Retter)
 - Domäne: Leben, Tod, Heilung, Übergang
 - Profil einer Frau auf einem goldenen Hintergrund
 
-# Hafaesir - Der Schmid
+# Hafaesir - Der Schmied
 
 - Domäne: Handwerk, Erschaffung, Wiederaufbau
 - Symbol: Hammer, dessen Ende in der Form eines Zwergenschädels ist

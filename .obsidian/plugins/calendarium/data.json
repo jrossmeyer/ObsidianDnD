@@ -238,11 +238,29 @@
         "locations": []
       },
       "current": {
-        "day": 8,
+        "day": 10,
         "month": 5,
         "year": 399
       },
-      "events": [],
+      "events": [
+        {
+          "name": "Dohma",
+          "description": "Die Party bekämpft in der alten Mine das erste Mal einen Fade - Dohma",
+          "date": {
+            "day": 8,
+            "month": 5,
+            "year": 399
+          },
+          "id": "ID_a9fbd9c81bf8",
+          "note": "2. Session Journals/Session 3/Session 3.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
       "categories": [],
       "path": [],
       "supportInlineEvents": false,
