@@ -1,6 +1,6 @@
 
 > [!infobox]+
-> # `=this.file.name`
+> # Carvahon
 > 
 > ![[Kingdoms.png]]
 > ###### Info
@@ -10,25 +10,25 @@
 > ###### Politics
 >  |
 > ---|---|
-> **Rulers** | `=this.Rulers` |
-> 
-> **Govt Type** | `=this.GovtType` |
-> **Religions** | `=link(this.religions)` |
+> **Rulers** | High Lord Talia Kar |
+> **Govt Type** | Vasallenherrschaft |
+> **Religions** | Lunarael |
 
 > [!infobox|left]- 
 > ![[Placeholderimage.png]]
 > **Description:** 
 
-# **`=this.file.name`**
+# **Carvahon**
 > [!metadata|overview]- Overview
-TBD
+Carvahon ist eines der drei südlichen Reiche Caldriens. Es macht zusammen mit [[Avarien]] und [[Velmorra]] die südliche Koalition aus. Regiert wird Carvahon von einem aus [[Valentis]] erwählten High Lord.
 
 
 > [!metadata|districts]- Areas
 TBD
 
 > [!metadata|settlements]- Settlements
-> TBD
+> [[Camylin]]
+> [[Pirn]]
 
 
 > [!metadata|landmarks]- Landmarks

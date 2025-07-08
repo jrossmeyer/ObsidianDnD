@@ -15,8 +15,8 @@
 > ###### Politics
 >  |
 > ---|---|
-> **Rulers** | `=this.Rulers` |
-> **Leaders** | `=this.Leaders` |
+> **Rulers** | [[Talia Ka]]r |
+> **Leaders** | Javan Delev |
 > **Religions** | [[Lunarael]] |
 > 
 
@@ -49,39 +49,29 @@ Camylin ist ein Ort voller Möglichkeiten – und voller Risiken. Die Tore stehe
 > ```
 
 > [!metadata|districts]- Districts
-> [[🪧 District Database|🪧Add New District]]
-> ```dataview
-table join(aliases, ", ") AS Aliases, join(type, ", ") AS Types
-WHERE Settlement = this.file.name AND contains(NoteIcon, "District")
-SORT file.name ASC
+> - **Markt Stadt**: Hier sind hauptsächlich die verschiedenen Handwerker und Läden zu finden
+> - **Nordhafen**: Hier leben Hafenarbeiter und ihre Familien. Außerdem befinden sich hier der Hafen und die Redereien
+> - **The Green**: Stadtpark um die Festung Camylins herum. Hier stehen einige prächtige Villen, die von der Oberschicht der Stadt bewohnt werden
+> - **Stone Heath**: Hier lebt der Großteil der Stadtbevölkerung. Es gibt Tavernen, Gasthäuser und allerlei anderes zu finden
+> - **Südslums**: Hier leben die weniger gut gestellten der Stadt
+
+
 
 > [!metadata|shops]- Shops
-> [[💲 Shop & Service Database|📝Add New Shop/Service]]
-> ```dataview
-table join(aliases, ", ") AS Aliases, join(type, ", ") AS Types
-WHERE Location = this.file.name AND contains(NoteIcon, "Shop")
-SORT file.name ASC
+> TBD
+
 
 > [!metadata|pois]- Points of Interest
-> [[❓ POI Database|📝Add New Point of Interest]]
-> ```dataview
-table join(aliases, ", ") AS Aliases, join(type, ", ") AS Types
-WHERE Location = this.file.name AND contains(NoteIcon, "POI")
-SORT file.name ASC
+> TBD
+
 
 > [!metadata|groups]- Groups
-> [[🔰 Group Database| 🔰 Add New Group]]
-> ```dataview
-table join(aliases, ", ") AS Aliases, join(type, ", ") AS Types
-WHERE econtains(Location, this.file.name) AND contains(NoteIcon, "Group")
-SORT file.name ASC
+> TBD
+
 
 > [!metadata|characters]- Characters
-> [[👨‍👩‍👧‍👦 NPC Database| 📝Add New NPC]]
-> ```dataview
-table join(aliases, ", ") AS Aliases, join(occupation, ", ") AS "Occupations", join(link(associatedgroup), ", ") AS "Groups"
-WHERE Location = this.file.name AND contains(NoteIcon, "Character") AND !contains(Condition, "Dead")
-SORT file.name ASC
+> TBD
+
 
 ## History
 
