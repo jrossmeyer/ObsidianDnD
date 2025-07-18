@@ -3,7 +3,7 @@ obsidianUIMode: preview
 obsidianEditingMode: source
 BaseSpeed: 30.001
 SpeedMultiplier: 1
-AdditionalBonus: 0
+AdditionalBonus: 5
 Encumbered: false
 HorseshoesofSpeed: false
 HoursPerDay: 8

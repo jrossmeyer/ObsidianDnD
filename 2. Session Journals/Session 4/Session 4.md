@@ -110,7 +110,4 @@ creatures:
 ```
 
 # Notes
-
-- Party ist blessed
-- Dohma ist am Zug
-- Dohma droppt eine Pearl of Power
+- Es ist abends, Gasthaus als nächstes

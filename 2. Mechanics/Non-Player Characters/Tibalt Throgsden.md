@@ -1,1 +1,1 @@
-Oberakolyt der [[St.Trigadnis Kirche]]
+Oberakolyth der [[St.Trigadnis Kirche]]
