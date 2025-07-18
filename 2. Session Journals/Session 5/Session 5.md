@@ -40,7 +40,7 @@ creatures:
  - 2: Hobgoblin Captain
  - 2: Hobgoblin
  - 2: Human Brawler
- - 1: Human Trickshot
+ - 2: Human Trickshot
 ```
 
 
@@ -48,10 +48,10 @@ creatures:
 ```encounter-table
 name: Example
 creatures:
- - 1: Human Raider
+ - 2: Human Raider
  - 2: Human Trickshot
  - 1: Veteran 
- - 1: Human Knave
+ - 2: Human Knave
 ```
 
 
@@ -97,3 +97,9 @@ creatures:
 
 ```
 # Notes
+
+- Windfels verschwundene Leute
+- Karawane nach Belduar
+- Unruhen im Dunkelwald
+- Haben vorläufige Lizenz in Abhängigkeit von Pandora
+- Letzter Moment: Adran beleidigt Efialtir vor seinen Dienern

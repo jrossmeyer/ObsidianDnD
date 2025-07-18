@@ -238,7 +238,7 @@
         "locations": []
       },
       "current": {
-        "day": 11,
+        "day": 12,
         "month": 5,
         "year": 399
       },
@@ -256,6 +256,26 @@
           },
           "id": "ID_099a7bc96bc9",
           "note": "1. World Almanac/Caldrien/Regionen und Reiche/Die Koalition/Carvahon/Orte/Camylin.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Schwarzes Marken beginnt",
+          "description": "Die Kampagne startet",
+          "date": {
+            "day": [
+              2,
+              2
+            ],
+            "month": 5,
+            "year": 399
+          },
+          "id": "ID_0b6bb9d878f9",
+          "note": "1. The Party - Schwarzes Marken/Travel Calc.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,

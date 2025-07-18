@@ -15,7 +15,7 @@
 > ###### Politics
 >  |
 > ---|---|
-> **Rulers** | [[Talia Ka]]r |
+> **Rulers** | [[Talia Kar]] |
 > **Leaders** | Javan Delev |
 > **Religions** | [[Lunarael]] |
 > 
@@ -58,7 +58,12 @@ Camylin ist ein Ort voller Möglichkeiten – und voller Risiken. Die Tore stehe
 
 
 > [!metadata|shops]- Shops
-> TBD
+> - [[Camylin - Äther & Amboss]]
+> - [[Camylin - Der Seidene Stiefel]]
+> - [[Camylin - Die Kupferkröte]]
+> - [[Camylin - Farn & Fibel]]
+> - [[Camylin - Zum hinkenden Eber]]
+> - [[Camylin - Zur Flamme & Feder]]
 
 
 > [!metadata|pois]- Points of Interest
