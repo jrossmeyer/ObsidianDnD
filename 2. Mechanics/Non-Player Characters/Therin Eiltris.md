@@ -14,3 +14,5 @@
 # Schlüsselinformationen
 - sammelt Informationen für die Rebellion in der Stadt und untersucht eine besonders neugierige Inquisitionstruppe - die selbe Truppe, die Rist verschleppt hat
 - Es gibt Vermutungen in der Rebellion, dass einige ihrer Kontakte übergelaufen sein könnten, was er ebenfalls prüft
+- Kann die Party über, den Vorfall mit den Uraks aufklären und darüber was Dohma war
+- Ist überrascht darüber, dass die Gruppe in der Lage war einen Shade zu besiegen

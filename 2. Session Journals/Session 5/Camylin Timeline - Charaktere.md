@@ -6,10 +6,10 @@
 
 #### 12 TOF 399
 - Mehrere Schiffe der zweiten Armee landen in der Stadt
-- Aeson bemerkt, dass eine zweite Armee nur bedeuten kann, dass Berona attackiert werden soll und macht sich dorthin auf den Weg - mit oder ohne Party
+- Aeson bemerkt, dass eine zweite Armee nur bedeuten kann, dass [[Belduar]] attackiert werden soll und macht sich dorthin auf den Weg - mit oder ohne Party
 - Er reist mit seinen Söhnen abends ab
-- [[Therin]] bemerkt dies auch verlässt sich aber auf Aeson
-- Therin arbeitet weiter daran Fritz Netly zu beschatten, um den Inquisitor [[Rendall Craine]] ausfindig zu machen
+- [[Therin Eiltris]] bemerkt dies auch, verlässt sich aber auf Aeson
+- Therin arbeitet weiter daran Fritz Netly zu beschatten, um den Inquisitor [[Rendall Craine]] ausfindig zu machen, da er vermutet, dass dieser einen seiner Informanten gefangen hält 
 - Rendall Craine befindet sich den Tag über in der Festung
 - Er veranlasst, dass ein Schlägertrupp versucht den hinkenden Eber zu überfallen
 - Rendall Craine ist am Abend mit einigen Soldaten im [[Camylin - Der Seidene Stiefel |Der Seidene Stiefel]] und fällt dort negativ auf

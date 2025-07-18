@@ -10,6 +10,6 @@
 811 - Frieden zwischen den Rassen
 987 - 1011 - Blutkriege: Hauptsächlich zwischen den Hrothnar, den Elfen und den Drachen
 1012 - Gründung des Ordens im Zuge des Endes der Blutkriege
-0 - Thane Mortem stürzt den Orden und errichtet das Kaiserreich Valentis
+0 - 1229 - Thane Mortem stürzt den Orden und errichtet das Kaiserreich Valentis
 1608 - Ende des Valtara Rebellion mit dem Niederbrennen der Sturmwacht
 1628 - heute

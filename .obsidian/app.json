@@ -2,6 +2,7 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "z_Assets",
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",

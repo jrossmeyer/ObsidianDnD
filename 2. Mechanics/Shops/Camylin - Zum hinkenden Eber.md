@@ -41,5 +41,10 @@
 ### Notes
 
 - **Bront "Brumm" Daskall** – Grobschlächtiger, herzlicher Halbork mit riesiger Stimme und schiefem Lächeln. Hat die Taverne aus einem gewonnenen Würfelspiel übernommen.
-- **Lenya** – Menschliches Straßenkind, inzwischen flinke Schankmaid mit scharfem Verstand. Weiß immer, wo gerade geschmuggelt wird.
+- **[[Lenya]]** – Menschliches Straßenkind, inzwischen flinke Schankmaid mit scharfem Verstand. Weiß immer, wo gerade geschmuggelt wird.
 - **Durn Malk** – Zwerg, Koch und heimlicher Poet. Schreibt Verse in Bierdampf an die Küchenwand.
+
+- Ereignisse: **Zwei Gäste streiten lautstark**, weil einer angeblich einen Drachen aus  gesehen habe – und der andere behauptet, Drachen hat schon ewig keiner mehr gesehen
+
+- Gerüchte: Die Leute aus Windfels sind fast über Nacht verschwunden. Türen offen, Töpfe auf dem Feuer. Keine Spuren. Kein Blut. Nur Stille -> danach die Inquisition
+- Im [[Dunkelwald]] scheint es Aufruhen zu geben, selbst Leute mit Kontakten haben Schwierigkeiten durchzublicken

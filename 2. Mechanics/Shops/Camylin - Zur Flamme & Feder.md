@@ -38,7 +38,7 @@ Schon beim Näherkommen erfüllt das metallische Taktgefühl von Hammer auf Ambo
 | Javelin        | 50 SP  |
 
 ### Hidden Details
-- Die Spieler können hier einen Auftrag erhalten eine Lieferung nach [[Berona]] zu bringen.
+- Die Spieler können hier einen Auftrag erhalten eine Lieferung nach [[Belduar]] zu bringen.
 > [!info]- Info  
 > Was die Spieler nicht wissen: In der Lieferung sind auch Waffen und Ausrüstung versteckt. Diese nach Berona zu liefern ist streng verboten, daher werden sie auch gut bezahlt. 
 

@@ -238,11 +238,32 @@
         "locations": []
       },
       "current": {
-        "day": 8,
+        "day": 11,
         "month": 5,
         "year": 399
       },
-      "events": [],
+      "events": [
+        {
+          "name": "Camylin",
+          "description": "Die Party erreicht nach der Reise von Pirn Camylin",
+          "date": {
+            "day": [
+              11,
+              11
+            ],
+            "month": 5,
+            "year": 399
+          },
+          "id": "ID_099a7bc96bc9",
+          "note": "1. World Almanac/Caldrien/Regionen und Reiche/Die Koalition/Carvahon/Orte/Camylin.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        }
+      ],
       "categories": [],
       "path": [],
       "supportInlineEvents": false,
