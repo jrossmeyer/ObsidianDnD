@@ -8,63 +8,48 @@
         "type": "tabs",
         "children": [
           {
+            "id": "93e30547497daea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Session Journals/Session 6/Session 6.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 6"
+            }
+          },
+          {
             "id": "b5bc26d18b91f032",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Mechanics/Shops/Camylin - Zum hinkenden Eber.md",
-                "mode": "preview",
+                "file": "2. Session Journals/Session 6/Camylin - Belduar - Timeline.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Camylin - Zum hinkenden Eber"
+              "title": "Camylin - Belduar - Timeline"
             }
           },
           {
-            "id": "185f1a5d96635782",
+            "id": "c3b3bd5cbd863cd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Session Journals/Session 5/Session 5.md",
-                "mode": "preview",
+                "file": "1. World Almanac/Caldrien/Caldrien.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 5"
-            }
-          },
-          {
-            "id": "fb7b478d2ea10a52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Mechanics/Shops/Camylin - Zur Flamme & Feder.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Camylin - Zur Flamme & Feder"
-            }
-          },
-          {
-            "id": "4181a7cdf3e88ff1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timeline Caldrien.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Timeline Caldrien"
+              "title": "Caldrien"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,17 +170,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Session Journals/Session 5/Session 5.md",
+                "file": "2. Session Journals/Session 6/Session 6.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 5"
+              "title": "Outline of Session 6"
             }
           },
           {
-            "id": "2f4ef98892877d99",
+            "id": "101e44fd22a803fe",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
@@ -204,7 +189,7 @@
                 "ephemeral": {
                   "viewState": 1,
                   "displaying": {
-                    "day": 11,
+                    "day": 12,
                     "month": 5,
                     "year": 399
                   },
@@ -214,66 +199,14 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_0bf8cbca681b"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "6c4d3dae4663537a",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_3bda8b2989eb",
-                "ephemeral": {
-                  "viewing": {
-                    "day": 11,
-                    "month": 5,
-                    "year": 399
-                  },
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 11,
-                    "month": 5,
-                    "year": 399
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_89c92a192bc8",
-                "child": "ID_f97808db79fb"
+                "id": "ID_5aebf879e9f9"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "8584064d3443b85d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2f5706606ab13b0b",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_3bda8b2989eb",
-                "id": "ID_f97808db79fb",
-                "parent": "ID_89c92a192bc8"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -294,44 +227,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "185f1a5d96635782",
+  "active": "93e30547497daea0",
   "lastOpenFiles": [
-    "2. Mechanics/Shops/Camylin - Zum hinkenden Eber.md",
-    "2. Session Journals/Session 5/Session 5.md",
-    "2. Mechanics/Non-Player Characters/Fritz Netly.md",
-    "2. Mechanics/Shops/Camylin - Der Seidene Stiefel.md",
-    "2. Mechanics/Non-Player Characters/Therin Eiltris.md",
-    "2. Mechanics/Shops/Camylin - Zur Flamme & Feder.md",
-    "1. World Almanac/Caldrien/Regionen und Reiche/Die Koalition/Carvahon/Orte/Camylin.md",
-    "2. Mechanics/Non-Player Characters/Aeson Virandr.md",
+    "1. World Almanac/Caldrien/Regionen und Reiche/Die Koalition/Carvahon/Orte/Windfels.md",
+    "2. Session Journals/Session 6/Session 6.md",
     "1. World Almanac/Caldrien/Caldrien.md",
+    "2. Session Journals/Session 6/Camylin - Belduar - Timeline.md",
+    "2. Mechanics/Bestiary/Undead/Specter FM.md",
     "1. The Party - Schwarzes Marken/Travel Calc.md",
+    "2. Mechanics/Bestiary/Undead/Shadow FM.md",
+    "2. Mechanics/Bestiary/Undead/Wraith FM.md",
+    "2. Mechanics/Bestiary/Undead",
+    "1. World Almanac/Caldrien/Pantheon/Verräter-Götter.md",
+    "2. Mechanics/Bestiary/Humans/Human Brawler.md",
+    "2. Mechanics/Shops/Camylin - Zur Flamme & Feder.md",
     "Timeline Caldrien.md",
-    "2. Mechanics/Non-Player Characters/Lenya.md",
-    "2. Session Journals/Session 5/Camylin Timeline - Charaktere.md",
-    "2. Mechanics/Non-Player Characters/Dahlen Virandr.md",
-    "2. Mechanics/Non-Player Characters/Eric Virandr.md",
-    "1. World Almanac/Caldrien/Pantheon/Lunarael.md",
-    "2. Session Journals/Session 4/Session 4.md",
+    "2. Mechanics/Shops/Camylin - Zum hinkenden Eber.md",
+    "1. The Party - Schwarzes Marken/Vladislav.md",
+    "1. The Party - Schwarzes Marken/z_Template.md",
+    "1. The Party - Schwarzes Marken/Adran Iathanar.md",
+    "1. The Party/Adran Iathanar.md",
+    "2. Session Journals/Session 5/Session 5.md",
+    "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/Fritz Netly (Enemy).md",
+    "2. Session Journals/Session 6",
+    "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/Inquisitor Rendall Craine.md",
+    "2. Mechanics/Bestiary/Humans/Human Knave.md",
+    "2. Mechanics/Bestiary/Humans/Uthrak.md",
+    "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine",
+    "2. Mechanics/Bestiary/Villain Parties",
+    "2. Mechanics/Bestiary/Humans/Human Storm Wizard.md",
+    "2. Mechanics/Bestiary/Humans/Human Death Cultist.md",
+    "2. Mechanics/Bestiary/Humans/Human Scoundrel.md",
     "2. Mechanics/Bestiary/Gloomstalker.md",
-    "2. Mechanics/Bestiary/Shadow Demon.md",
-    "2. Mechanics/Bestiary/Hell Hound.md",
-    "2. Mechanics/Bestiary/Peryton.md",
-    "2. Mechanics/Bestiary/Dohma Raskovar.md",
-    "2. Mechanics/Bestiary/Human Brawler.md",
-    "2. Mechanics/Bestiary/Urak.md",
-    "2. Mechanics/Bestiary/Orc Terranova.md",
-    "2. Mechanics/Bestiary/Orc Rampart.md",
+    "2. Mechanics/Bestiary/Orcs",
+    "2. Mechanics/Bestiary/Humans",
+    "2. Mechanics/Bestiary/Dragons/Humans",
+    "2. Mechanics/Bestiary/Dragons",
     "2. Session Journals/Session 5",
     "2. Mechanics/Shops",
-    "1. World Almanac/Caldrien/Regionen und Reiche/Belduar",
-    "1. World Almanac/Caldrien/Regionen und Reiche/Die Koalition/Velmorra",
-    "1. World Almanac/Caldrien/Regionen und Reiche/Valentis/Orte",
-    "1. World Almanac/Caldrien/Regionen und Reiche/Die Koalition/Carvahon/Orte/Untitled",
-    "1. World Almanac/Caldrien/Regionen und Reiche/Die Koalition/Carvahon/Orte",
-    "1. World Almanac/Caldrien/Regionen und Reiche/Die Koalition/Carvahon",
-    "2. Session Journals/Session 4",
-    "2. Session Journals/Session 3/Untitled",
     "z_Assets/Caldrien.jpg",
     "z_Assets/Wegfinder.PNG",
     "z_Assets/DarkShardAmulet.PNG",
