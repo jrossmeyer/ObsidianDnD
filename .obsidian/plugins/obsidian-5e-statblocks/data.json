@@ -1787,6 +1787,234 @@
         "source": "Homebrew",
         "layout": "Basic 5e Layout"
       }
+    ],
+    [
+      "Human Knave",
+      {
+        "name": "Human Knave",
+        "size": "Medium",
+        "type": "Humanoid",
+        "subtype": "Human",
+        "alignment": "Any",
+        "ac": 16,
+        "hp": 60,
+        "hit_dice": "8d8 + 24",
+        "speed": "30 ft.",
+        "stats": [
+          18,
+          10,
+          16,
+          10,
+          12,
+          10
+        ],
+        "skillsaves": [
+          {
+            "<skill-name>": null
+          },
+          {
+            "Intimidation": 4
+          },
+          {
+            "Perception": 3
+          }
+        ],
+        "senses": "passive Perception 13",
+        "languages": "Common",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "<trait-name>",
+            "desc": "<trait-description>"
+          },
+          {
+            "name": "Exploit Opening (3/Day)",
+            "desc": "When the raider makes an attack, they have advantage on the attack roll."
+          }
+        ],
+        "actions": [
+          {
+            "name": "<trait-name>",
+            "desc": "<trait-description>"
+          },
+          {
+            "name": "Multiattack",
+            "desc": "The knave makes two Morningstar or two Javelin attacks. They can replace one attack with a Shield Bash attack."
+          },
+          {
+            "name": "Morningstar",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if the target is prone."
+          },
+          {
+            "name": "Shield Bash",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) bludgeoning damage, and if the target is a Medium or smaller creature, they must succeed on a DC 14 Strength saving throw or be knocked prone."
+          },
+          {
+            "name": "Javelin",
+            "desc": "Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage."
+          },
+          {
+            "name": "Stay Down(BA)",
+            "desc": "The knave kicks one prone creature within 5 feet of them. The target must succeed on a DC 14 Constitution saving throw or their speed is reduced to 0 until the end of their next turn."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "<reaction-name>",
+            "desc": "<reaction-description>"
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Human Brawler",
+      {
+        "name": "Human Brawler",
+        "size": "Medium",
+        "type": "Humanoid",
+        "subtype": "Human",
+        "alignment": "Any",
+        "ac": 14,
+        "hp": 52,
+        "hit_dice": "7d8 + 21",
+        "speed": "30 ft.",
+        "stats": [
+          17,
+          14,
+          16,
+          10,
+          10,
+          12
+        ],
+        "skillsaves": [
+          {
+            "<skill-name>": null
+          },
+          {
+            "Athletics": 5
+          },
+          {
+            "Intimidation": 3
+          }
+        ],
+        "senses": "passive Perception 10",
+        "languages": "Common",
+        "cr": 2,
+        "traits": [
+          {
+            "name": "<trait-name>",
+            "desc": "<trait-description>"
+          },
+          {
+            "name": "Exploit Opening (3/Day)",
+            "desc": "When the brawler makes an attack, they have advantage on the attack roll."
+          }
+        ],
+        "actions": [
+          {
+            "name": "<trait-name>",
+            "desc": "<trait-description>"
+          },
+          {
+            "name": "Multiattack",
+            "desc": "The brawler makes two attacks using Grab, Haymaker, or both."
+          },
+          {
+            "name": "Grab",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one Medium or smaller creature. Hit: 5 (1d4 + 3) bludgeoning damage, and the target is grappled (escape DC 13). Until this grapple ends, the brawler can’t grab another creature."
+          },
+          {
+            "name": "Haymaker",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage, or 10 (3d4 + 3) bludgeoning damage against a grappled target."
+          },
+          {
+            "name": "Throw",
+            "desc": "The brawler throws one Medium or smaller creature they are grappling or object they are holding up to 30 feet horizontally. If the thrown target is a creature, they fall prone after this throw. If the thrown target would enter the space of a creature or solid object that is no more than one size smaller than it, the thrown target collides with it and stops in the nearest unoccupied space, taking 3 (1d6) bludgeoning damage for every 10 feet it was thrown. A Large or smaller creature hit by this thrown target must succeed on a DC 13 Dexterity saving throw or take the same amount of damage and fall prone."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "<reaction-name>",
+            "desc": "<reaction-description>"
+          },
+          {
+            "name": "Meath Shield(BA)",
+            "desc": "When the brawler is grappling a target and is hit by a ranged attack made by another creature the brawler can see, the brawler gains a +2 bonus to AC against the triggering attack. If this bonus causes the attack to miss the brawler, it hits the grappled target instead"
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Shadow Demon",
+      {
+        "name": "Shadow Demon",
+        "size": "Medium",
+        "type": "Fiend",
+        "subtype": "Demon",
+        "alignment": "chaotic evil",
+        "ac": 13,
+        "hp": 66,
+        "hit_dice": "12d8 + 12",
+        "speed": "30 ft., fly 30ft.",
+        "stats": [
+          1,
+          17,
+          12,
+          14,
+          13,
+          14
+        ],
+        "saves": [
+          {
+            "Dex": 5
+          },
+          {
+            "Cha": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "Stealth": 7
+          }
+        ],
+        "damage_vulnerabilities": "radiant",
+        "damage_resistances": "acid, fire, necrotic, thunder; bludgeoning, pie rcing, and slashing from non magical weapons",
+        "damage_immunities": "cold, lightning, poison",
+        "condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained",
+        "senses": "darkvision 120 ft., passive Perception 11",
+        "languages": "Abyssal, telepathy 120 ft.",
+        "cr": 4,
+        "traits": [
+          {
+            "name": "<trait-name>",
+            "desc": "<trait-description>"
+          },
+          {
+            "name": "Incorporeal Movement",
+            "desc": "The demon can move through other creatures and objects as if they were difficult terrain. It takes 5(1d10) force damage if it ends its turn inside an object"
+          },
+          {
+            "name": "Light Sensitivity",
+            "desc": "While in bright light, the demon has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+          },
+          {
+            "name": "Shadow Stealth",
+            "desc": "While in dim light or darkness, the demon can take the Hide action as a bonus action."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Claws",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) psychic damage or, if the demon had advantage on the attack ro ll , 17 (4d6 + 3) psychic damage."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
     ]
   ],
   "defaultLayouts": {},

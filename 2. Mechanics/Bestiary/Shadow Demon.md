@@ -1,5 +1,5 @@
 ```statblock  
-name: Shadwo Demon  
+name: Shadow Demon  
 size: Medium  
 type: Fiend  
 subtype: Demon  

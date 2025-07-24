@@ -86,6 +86,6 @@ creatures:
 
 
 # Notes
-- Es ist der 12.Tof nachmittags
+- Es ist der 14.Tof nachmittags
 - Haben vorläufige Lizenz in Abhängigkeit von Pandora
 - Letzter Moment: Adran beleidigt Efialtir vor seinen Dienern
