@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "Caldrien",
-      "lastAccessed": 1753357885602,
+      "lastAccessed": 1755169509106,
       "markers": [
         {
           "id": "ID_e9692b98d8c8",
@@ -294,11 +294,32 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_4ad94ab9cbeb",
+          "type": "Castle",
+          "loc": [
+            585.9522685412904,
+            981.5477405522095
+          ],
+          "layer": "%5B%5BCaldrien.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4792713576915085,
+            -0.381479341498236
+          ],
+          "description": "Fort Vigil",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
-      "files": []
+      "files": [
+        "1. World Almanac/Caldrien/Caldrien.md"
+      ]
     }
   ],
   "defaultMarker": {

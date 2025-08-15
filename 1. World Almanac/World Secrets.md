@@ -1,0 +1,13 @@
+- (1) Der Blutmond wird wieder aufsteigen
+- (2) Thane Mortem plant den Aufstieg des Blutmondes für ein magisches Ritual zu nutzen
+- (3) Thane Mortem hat sich im letzten Jahr etwas zurückgezogen und scheint etwas zu planen
+- (4) Im Dunkelwald gibt es Unruhen
+- (5) Der älteste Sohn der Iathanar Familie scheint Kontakte nach Außen zu unterhalten, die er geheim hält
+- (6) Der älteste Sohn der Iathanar Familie scheint etwas zu planen
+- (7) In Valtara sammelt sich eine erneute Rebellion zusammen
+- (8) Urak Angriffe werden zahlreicher und mutiger auf Grund der Nähe zum Blutmond
+- (9) Elfen, Zwerge und Menschen aus einigen Regionen scheinen verschleppt worden zu sein
+- (10) Eine geheimnisvolle Gruppe sammelt mächtige Artefakte
+- (11) Valentische Soldaten sollen in der Umgebung von abgelegenen Minen und Ruinen gesichtet worden sein
+- (12) Innerhalb der Drachenwacht scheint es Konflikte  zu geben
+- (13)

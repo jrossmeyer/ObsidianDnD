@@ -8,63 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93e30547497daea0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Mechanics/Shops/Camylin - Zur Flamme & Feder.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Camylin - Zur Flamme & Feder"
-            }
-          },
-          {
-            "id": "b5bc26d18b91f032",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Session Journals/Session 6/Camylin - Belduar - Timeline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Camylin - Belduar - Timeline"
-            }
-          },
-          {
-            "id": "c3b3bd5cbd863cd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Mechanics/Bestiary/Shadow Demon.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shadow Demon"
-            }
-          },
-          {
             "id": "5d7587a88c327d68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Session Journals/Session 6/Session 6.md",
+                "file": "1. The Party - Schwarzes Marken/Travel Calc.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 6"
+              "title": "Travel Calc"
+            }
+          },
+          {
+            "id": "165ab858de973b70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. World Almanac/Caldrien/Regionen und Reiche/Die Koalition/Carvahon/Orte/Windfels.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Windfels"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,16 +254,43 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "73e68c73cc7c2c94",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_3bda8b2989eb",
+                "ephemeral": {
+                  "viewing": null,
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 14,
+                    "month": 5,
+                    "year": 399
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_7a1888087ab9"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
         "currentTab": 5
       },
       {
-        "id": "0c5d955b4a6cfef8",
+        "id": "95151b07a1d32621",
         "type": "tabs",
         "children": [
           {
-            "id": "dcc39a7f6f78dae8",
+            "id": "56f7c4a3ac3c5aa2",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
@@ -320,44 +319,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3e502bbe8cddeb91",
+  "active": "165ab858de973b70",
   "lastOpenFiles": [
-    "1. World Almanac/Caldrien/Caldrien.md",
+    "2. Session Journals/Session 7/Session 7.md",
+    "2. Mechanics/Non-Player Characters/Therin Eiltris.md",
+    "2. Mechanics/Non-Player Characters/Korga.md",
+    "1. World Almanac/World Secrets.md",
     "1. The Party - Schwarzes Marken/Travel Calc.md",
+    "2. Mechanics/Guilds and Groups/Die Obsidiare.md",
+    "2. Mechanics/Shops/Camylin - Äther & Amboss.md",
+    "1. World Almanac/Caldrien/Regionen und Reiche/Die Koalition/Carvahon/Orte/Windfels.md",
+    "2. Session Journals/Session 6/Camylin - Belduar - Timeline.md",
+    "1. World Almanac/Caldrien/Caldrien.md",
+    "2. Mechanics/Bestiary/Undead/Decrepit Skeleton.md",
+    "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/The Horror.md",
+    "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/Jedar Pike.md",
+    "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/Inquisitor Rendall Craine.md",
+    "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/Mycete.md",
+    "2. Mechanics/Bestiary/Undead/Shadow FM.md",
+    "2. Mechanics/Bestiary/Undead/Specter FM.md",
+    "2. Mechanics/Bestiary/Dragons/Forzaantirilys.md",
+    "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/Fritz Netly (Enemy).md",
+    "2. Mechanics/Bestiary/Gloomstalker.md",
     "2. Mechanics/Bestiary/Shadow Demon.md",
     "2. Session Journals/Session 6/Session 6.md",
-    "2. Session Journals/Session 6/Camylin - Belduar - Timeline.md",
+    "2. Session Journals/Session 7",
+    "2. Session Journals/Session 6/Undtitled",
+    "2. Mechanics/Shops/Camylin - Zur Flamme & Feder.md",
     "2. Session Journals/Session 5/Session 5.md",
     "2. Mechanics/Items/Wegfinder.md",
-    "2. Mechanics/Shops/Camylin - Zur Flamme & Feder.md",
-    "1. World Almanac/Caldrien/Regionen und Reiche/Die Koalition/Carvahon/Orte/Windfels.md",
     "2. Mechanics/Non-Player Characters/Rendall Craine.md",
-    "2. Mechanics/Non-Player Characters/Fritz Netly.md",
-    "2. Mechanics/Shops/Camylin - Zum hinkenden Eber.md",
-    "2. Mechanics/Bestiary/Humans/Human Brawler.md",
-    "2. Mechanics/Bestiary/Humans/Human Knave.md",
-    "2. Mechanics/Bestiary/Undead/Specter FM.md",
-    "2. Mechanics/Bestiary/Undead/Shadow FM.md",
-    "2. Mechanics/Bestiary/Undead/Wraith FM.md",
     "2. Mechanics/Bestiary/Undead",
-    "1. World Almanac/Caldrien/Pantheon/Verräter-Götter.md",
-    "Timeline Caldrien.md",
-    "1. The Party - Schwarzes Marken/Vladislav.md",
-    "1. The Party - Schwarzes Marken/z_Template.md",
-    "1. The Party - Schwarzes Marken/Adran Iathanar.md",
-    "1. The Party/Adran Iathanar.md",
-    "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/Fritz Netly (Enemy).md",
     "2. Session Journals/Session 6",
-    "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/Inquisitor Rendall Craine.md",
-    "2. Mechanics/Bestiary/Humans/Uthrak.md",
     "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine",
     "2. Mechanics/Bestiary/Villain Parties",
     "2. Mechanics/Bestiary/Orcs",
     "2. Mechanics/Bestiary/Humans",
     "2. Mechanics/Bestiary/Dragons/Humans",
     "2. Mechanics/Bestiary/Dragons",
-    "2. Session Journals/Session 5",
-    "2. Mechanics/Shops",
     "z_Assets/Caldrien.jpg",
     "z_Assets/Wegfinder.PNG",
     "z_Assets/DarkShardAmulet.PNG",
