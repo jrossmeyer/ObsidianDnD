@@ -44,3 +44,4 @@
 - Haben vorläufige Lizenz in Abhängigkeit von Pandora
 - Sind im Kampf
 - Party ist 4h von Windfels entfernt
+- Party ist auf der Lichtung, kampf gewonnen, ist mittags

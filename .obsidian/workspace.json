@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. The Party - Schwarzes Marken/Travel Calc.md",
-                "mode": "preview",
+                "file": "2. Session Journals/Session 7/Session 7.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Travel Calc"
+              "title": "Session 7"
             }
           },
           {
@@ -27,16 +27,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. World Almanac/Caldrien/Regionen und Reiche/Die Koalition/Carvahon/Orte/Windfels.md",
+                "file": "1. World Almanac/Caldrien/Pantheon/Verräter-Götter.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windfels"
+              "title": "Verräter-Götter"
+            }
+          },
+          {
+            "id": "0da91df6bb791773",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Session Journals/Session 6/Camylin - Belduar - Timeline.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Camylin - Belduar - Timeline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,6 +115,7 @@
       {
         "id": "bc315a54df18f9f0",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "a349f95678eb60ed",
@@ -157,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Session Journals/Session 6/Session 6.md",
+                "file": "2. Session Journals/Session 7/Session 7.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 6"
+              "title": "Outline of Session 7"
             }
           },
           {
@@ -201,86 +215,6 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
-          },
-          {
-            "id": "8e4455bfccd39131",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_3bda8b2989eb",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 12,
-                    "month": 5,
-                    "year": 399
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_1b7bab0a3bca"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "e7cad4845a60ce30",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_3bda8b2989eb",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 13,
-                    "month": 5,
-                    "year": 399
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_6b59a968fa98"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "73e68c73cc7c2c94",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_3bda8b2989eb",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 14,
-                    "month": 5,
-                    "year": 399
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_7a1888087ab9"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
           }
         ],
         "currentTab": 5
@@ -288,6 +222,7 @@
       {
         "id": "95151b07a1d32621",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "56f7c4a3ac3c5aa2",
@@ -303,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 773.5
+    "width": 659.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,18 +255,23 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "165ab858de973b70",
+  "active": "5d7587a88c327d68",
   "lastOpenFiles": [
+    "1. World Almanac/Caldrien/Regionen und Reiche/Die Koalition/Carvahon/Orte/Windfels.md",
+    "1. The Party - Schwarzes Marken/Travel Calc.md",
+    "1. World Almanac/Caldrien/Pantheon/Verräter-Götter.md",
     "2. Session Journals/Session 7/Session 7.md",
-    "2. Mechanics/Non-Player Characters/Therin Eiltris.md",
+    "1. World Almanac/Caldrien/Caldrien.md",
+    "2. Session Journals/Session 6/Camylin - Belduar - Timeline.md",
+    "1. World Almanac/Caldrien/Pantheon/Lunarael.md",
     "2. Mechanics/Non-Player Characters/Korga.md",
     "1. World Almanac/World Secrets.md",
-    "1. The Party - Schwarzes Marken/Travel Calc.md",
+    "1. The Party - Schwarzes Marken/Vladislav.md",
+    "1. The Party - Schwarzes Marken/Adran Iathanar.md",
+    "1. The Party - Schwarzes Marken/Pandoras Actor.md",
+    "2. Mechanics/Non-Player Characters/Therin Eiltris.md",
     "2. Mechanics/Guilds and Groups/Die Obsidiare.md",
     "2. Mechanics/Shops/Camylin - Äther & Amboss.md",
-    "1. World Almanac/Caldrien/Regionen und Reiche/Die Koalition/Carvahon/Orte/Windfels.md",
-    "2. Session Journals/Session 6/Camylin - Belduar - Timeline.md",
-    "1. World Almanac/Caldrien/Caldrien.md",
     "2. Mechanics/Bestiary/Undead/Decrepit Skeleton.md",
     "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/The Horror.md",
     "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/Jedar Pike.md",
@@ -342,13 +283,8 @@
     "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/Fritz Netly (Enemy).md",
     "2. Mechanics/Bestiary/Gloomstalker.md",
     "2. Mechanics/Bestiary/Shadow Demon.md",
-    "2. Session Journals/Session 6/Session 6.md",
     "2. Session Journals/Session 7",
     "2. Session Journals/Session 6/Undtitled",
-    "2. Mechanics/Shops/Camylin - Zur Flamme & Feder.md",
-    "2. Session Journals/Session 5/Session 5.md",
-    "2. Mechanics/Items/Wegfinder.md",
-    "2. Mechanics/Non-Player Characters/Rendall Craine.md",
     "2. Mechanics/Bestiary/Undead",
     "2. Session Journals/Session 6",
     "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine",

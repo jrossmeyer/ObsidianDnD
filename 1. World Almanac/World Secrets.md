@@ -10,4 +10,6 @@
 - (10) Eine geheimnisvolle Gruppe sammelt mächtige Artefakte
 - (11) Valentische Soldaten sollen in der Umgebung von abgelegenen Minen und Ruinen gesichtet worden sein
 - (12) Innerhalb der Drachenwacht scheint es Konflikte  zu geben
-- (13)
+- (13) Unter den Zwergen scheint es Spannungen zu geben
+- (14) Thane Mortem hat die Suche nach einem wichtigen Artefakt gestartet, dass er scheinbar verloren hat
+- (15)

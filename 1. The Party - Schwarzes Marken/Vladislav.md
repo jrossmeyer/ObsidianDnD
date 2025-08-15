@@ -1,7 +1,7 @@
 ---
 level: 5
-hp: 26
-ac: 10
+hp: 33
+ac: 11
 modifier: 2
 ---
 
