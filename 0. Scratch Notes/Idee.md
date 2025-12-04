@@ -1,0 +1,1 @@
+- Visionen, die zeigen, was passiert, wenn Efialtir erfolgreich beschworen wird bspw. von Achyron gezeigt

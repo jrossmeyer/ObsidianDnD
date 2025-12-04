@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. World Almanac/Caldrien/Regionen und Reiche/Die Koalition/Carvahon/Orte/Windfels.md",
-                "mode": "preview",
+                "file": "0. Scratch Notes/Idee.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windfels"
+              "title": "Idee"
+            }
+          },
+          {
+            "id": "2ef16fd5e3f73605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Session Journals/Session 8/Camylin - Belduar - Timeline 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Camylin - Belduar - Timeline 1"
+            }
+          },
+          {
+            "id": "485dfd4fa591c539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Session Journals/Session 8/Session 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 8"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,7 +238,11 @@
               "state": {
                 "calendar": "ID_3bda8b2989eb",
                 "ephemeral": {
-                  "viewing": null,
+                  "viewing": {
+                    "day": 19,
+                    "month": 5,
+                    "year": 399
+                  },
                   "viewState": 1,
                   "displaying": {
                     "day": 12,
@@ -223,67 +255,15 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_1b7bab0a3bca"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "e7cad4845a60ce30",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_3bda8b2989eb",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 13,
-                    "month": 5,
-                    "year": 399
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_6b59a968fa98"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "73e68c73cc7c2c94",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_3bda8b2989eb",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 14,
-                    "month": 5,
-                    "year": 399
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_7a1888087ab9"
+                "id": "ID_1b7bab0a3bca",
+                "child": "ID_2bdbb8b8888a"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "95151b07a1d32621",
@@ -300,6 +280,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "f84d46b85e781d42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab1962971859c6a6",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_3bda8b2989eb",
+                "id": "ID_2bdbb8b8888a",
+                "parent": "ID_1b7bab0a3bca"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -307,6 +307,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -319,18 +320,24 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "165ab858de973b70",
+  "active": "485dfd4fa591c539",
   "lastOpenFiles": [
-    "2. Session Journals/Session 7/Session 7.md",
-    "2. Mechanics/Non-Player Characters/Therin Eiltris.md",
-    "2. Mechanics/Non-Player Characters/Korga.md",
-    "1. World Almanac/World Secrets.md",
+    "2. Session Journals/Session 8/Camylin - Belduar - Timeline 1.md",
+    "2. Session Journals/Session 8/Session 8.md",
+    "0. Scratch Notes/Idee.md",
     "1. The Party - Schwarzes Marken/Travel Calc.md",
-    "2. Mechanics/Guilds and Groups/Die Obsidiare.md",
-    "2. Mechanics/Shops/Camylin - Äther & Amboss.md",
     "1. World Almanac/Caldrien/Regionen und Reiche/Die Koalition/Carvahon/Orte/Windfels.md",
     "2. Session Journals/Session 6/Camylin - Belduar - Timeline.md",
+    "2. Session Journals/Session 7/Session 7.md",
+    "1. World Almanac/Caldrien/Timeline.md",
     "1. World Almanac/Caldrien/Caldrien.md",
+    "Berona.md",
+    "2. Mechanics/Non-Player Characters/Therin Eiltris.md",
+    "2. Session Journals/Session 8",
+    "2. Mechanics/Non-Player Characters/Korga.md",
+    "1. World Almanac/World Secrets.md",
+    "2. Mechanics/Guilds and Groups/Die Obsidiare.md",
+    "2. Mechanics/Shops/Camylin - Äther & Amboss.md",
     "2. Mechanics/Bestiary/Undead/Decrepit Skeleton.md",
     "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/The Horror.md",
     "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/Jedar Pike.md",
@@ -342,13 +349,8 @@
     "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/Fritz Netly (Enemy).md",
     "2. Mechanics/Bestiary/Gloomstalker.md",
     "2. Mechanics/Bestiary/Shadow Demon.md",
-    "2. Session Journals/Session 6/Session 6.md",
     "2. Session Journals/Session 7",
     "2. Session Journals/Session 6/Undtitled",
-    "2. Mechanics/Shops/Camylin - Zur Flamme & Feder.md",
-    "2. Session Journals/Session 5/Session 5.md",
-    "2. Mechanics/Items/Wegfinder.md",
-    "2. Mechanics/Non-Player Characters/Rendall Craine.md",
     "2. Mechanics/Bestiary/Undead",
     "2. Session Journals/Session 6",
     "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine",
@@ -356,7 +358,6 @@
     "2. Mechanics/Bestiary/Orcs",
     "2. Mechanics/Bestiary/Humans",
     "2. Mechanics/Bestiary/Dragons/Humans",
-    "2. Mechanics/Bestiary/Dragons",
     "z_Assets/Caldrien.jpg",
     "z_Assets/Wegfinder.PNG",
     "z_Assets/DarkShardAmulet.PNG",
