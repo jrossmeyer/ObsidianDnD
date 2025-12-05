@@ -1,0 +1,1 @@
+- Treffen mit anderen Reisenden, eventuell noch Kämpfe  Söldner?) oder nur schnelle Reise bis zum Fort

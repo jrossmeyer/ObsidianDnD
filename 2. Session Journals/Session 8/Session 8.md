@@ -15,6 +15,8 @@
 - Aeson und seine Söhne sind auf dem Weg nach Belduar
 - Die valentischen Armeen bewegen sich nach Belduar ( unbekannt)
 - Es gibt zwei Möglichkeiten die Feste zu erreichen, einen gefährlicheren Weg, der kürzer ist, was ihnen eine pünktliche Ankunft ermöglichen würde oder den Weg außen rum, der länger dauert und bedeuten würde, dass die Party zu spät käme
+- kürzerer Weg (2 Tage): direkter Sumpfgebiet
+- Alternative: zurück zum Pass und von dort zum Fort(3 oder 4 Tage)
 
 
 # NPCs
@@ -37,6 +39,8 @@
 
 - Im Wald kann die Party auf [[Therin Eiltris]] treffen. History(DC13) für Adran
 - Eventuell reist die Party danach weiter und trifft Craine in seiner Feste
+- [[Sumpf]]
+- Pass
 
 # Notes
 - Es ist der 16.Tof morgens  ~19:00Uhr

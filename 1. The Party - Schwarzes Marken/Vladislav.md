@@ -13,3 +13,5 @@ modifier: 2
 - hat einen azurummische Buch dabei
 
 # Backstory
+- sein Vorfahr hat ihm ein Buch hinterlassen, in dem er seine Reise mit einem ambitionierten Freund beschreibt
+- dieser Freund  war Thane Mortem

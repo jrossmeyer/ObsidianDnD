@@ -15,3 +15,7 @@ modifier: 0
 # Personal Quest
 
 # Backstory
+- sein Heimatdorf wurde vor Jahren von Gran Bar'Tel und seinen Kultisten überfallen
+- er wurde von Bruder Garammon der Inquisition gerettet und in die Inquisition eingeführt
+- dort durchlief er eine Ausbildung und traf seinen Patron
+- sein Patron suchte einen Champion gegen den Kult 

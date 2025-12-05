@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Session Journals/Session 8/Session 8.md",
+                "file": "1. World Almanac/Caldrien/Regionen und Reiche/Die Koalition/Carvahon/Orte/Windfels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 8"
+              "title": "Windfels"
             }
           }
         ],
@@ -239,7 +239,7 @@
                 "calendar": "ID_3bda8b2989eb",
                 "ephemeral": {
                   "viewing": {
-                    "day": 19,
+                    "day": 16,
                     "month": 5,
                     "year": 399
                   },
@@ -264,50 +264,14 @@
           }
         ],
         "currentTab": 6
-      },
-      {
-        "id": "95151b07a1d32621",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "56f7c4a3ac3c5aa2",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f84d46b85e781d42",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ab1962971859c6a6",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_3bda8b2989eb",
-                "id": "ID_2bdbb8b8888a",
-                "parent": "ID_1b7bab0a3bca"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 773.5
+    "width": 773.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -322,13 +286,20 @@
   },
   "active": "485dfd4fa591c539",
   "lastOpenFiles": [
-    "2. Session Journals/Session 8/Camylin - Belduar - Timeline 1.md",
+    "2. Session Journals/Session 7/Session 7.md",
+    "1. The Party - Schwarzes Marken/Pandoras Actor.md",
+    "2. Mechanics/Guilds and Groups/Die Obsidiare.md",
+    "1. The Party - Schwarzes Marken/Vladislav.md",
+    "1. The Party - Schwarzes Marken/Adran Iathanar.md",
+    "2. Mechanics/Guilds and Groups/Achyrons Ritter.md",
+    "2. Session Journals/Session 8/Pass.md",
     "2. Session Journals/Session 8/Session 8.md",
+    "2. Session Journals/Session 8/Sumpf.md",
+    "2. Session Journals/Session 8/Camylin - Belduar - Timeline 1.md",
     "0. Scratch Notes/Idee.md",
     "1. The Party - Schwarzes Marken/Travel Calc.md",
     "1. World Almanac/Caldrien/Regionen und Reiche/Die Koalition/Carvahon/Orte/Windfels.md",
     "2. Session Journals/Session 6/Camylin - Belduar - Timeline.md",
-    "2. Session Journals/Session 7/Session 7.md",
     "1. World Almanac/Caldrien/Timeline.md",
     "1. World Almanac/Caldrien/Caldrien.md",
     "Berona.md",
@@ -336,19 +307,12 @@
     "2. Session Journals/Session 8",
     "2. Mechanics/Non-Player Characters/Korga.md",
     "1. World Almanac/World Secrets.md",
-    "2. Mechanics/Guilds and Groups/Die Obsidiare.md",
     "2. Mechanics/Shops/Camylin - Äther & Amboss.md",
     "2. Mechanics/Bestiary/Undead/Decrepit Skeleton.md",
     "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/The Horror.md",
     "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/Jedar Pike.md",
     "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/Inquisitor Rendall Craine.md",
     "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/Mycete.md",
-    "2. Mechanics/Bestiary/Undead/Shadow FM.md",
-    "2. Mechanics/Bestiary/Undead/Specter FM.md",
-    "2. Mechanics/Bestiary/Dragons/Forzaantirilys.md",
-    "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/Fritz Netly (Enemy).md",
-    "2. Mechanics/Bestiary/Gloomstalker.md",
-    "2. Mechanics/Bestiary/Shadow Demon.md",
     "2. Session Journals/Session 7",
     "2. Session Journals/Session 6/Undtitled",
     "2. Mechanics/Bestiary/Undead",
