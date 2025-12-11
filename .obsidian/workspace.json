@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Alternative Route"
             }
+          },
+          {
+            "id": "7b3ea6a083ec1bd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Session Journals/Session 8/Sumpf.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sumpf"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 262.5
   },
   "right": {
     "id": "f46a8aa3364db49c",
@@ -185,45 +199,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Session Journals/Session 6/Session 6.md",
+                "file": "2. Session Journals/Session 8/Sumpf.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 6"
+              "title": "Outline of Sumpf"
             }
           },
           {
-            "id": "101e44fd22a803fe",
+            "id": "7daa7d11fd4188ee",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_3bda8b2989eb",
-                "ephemeral": {
-                  "viewing": {
-                    "day": 16,
-                    "month": 5,
-                    "year": 399
-                  },
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 12,
-                    "month": 5,
-                    "year": 399
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_5aebf879e9f9",
-                "child": "ID_8abb38894b48"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           }
         ],
@@ -241,26 +233,6 @@
               "state": {},
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
-            }
-          }
-        ]
-      },
-      {
-        "id": "252f7f148e51b000",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d9a0beccfbe8f8c8",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_3bda8b2989eb",
-                "id": "ID_8abb38894b48",
-                "parent": "ID_5aebf879e9f9"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
             }
           }
         ]
@@ -284,15 +256,26 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "485dfd4fa591c539",
+  "active": "7daa7d11fd4188ee",
   "lastOpenFiles": [
+    "Timeline Caldrien.md",
+    "2. Session Journals/Session 8/Sumpf.md",
+    "2. Session Journals/Session 8/Alternative Route.md",
+    "2. Session Journals/Session 8/Pass.md",
+    "2. Session Journals/Session 8/Session 8.md",
+    "1. World Almanac/World Secrets.md",
+    "1. World Almanac/Caldrien/Caldrien.md",
+    "1. World Almanac/Caldrien/Pantheon/Verräter-Götter.md",
+    "2. Mechanics/Non-Player Characters/Therin Eiltris.md",
+    "1. The Party - Schwarzes Marken/Adran Iathanar.md",
+    "2. Mechanics/Bestiary/Shadow Demon.md",
+    "2. Mechanics/Bestiary/Urak.md",
+    "2. Mechanics/Bestiary/Dragons/Forzaantirilys.md",
     "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/Fritz Netly (Enemy).md",
     "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/Inquisitor Rendall Craine.md",
     "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/Jedar Pike.md",
     "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/Mycete.md",
     "2. Mechanics/Bestiary/Villain Parties/Inquisition Craine/The Horror.md",
-    "2. Session Journals/Session 8/Alternative Route.md",
-    "2. Session Journals/Session 8/Sumpf.md",
     "2. Mechanics/Bestiary/Plant/Shambling Mound.md",
     "2. Mechanics/Bestiary/Plant",
     "2. Mechanics/Bestiary/Dragons/Young Black Dragon.md",
@@ -302,20 +285,9 @@
     "0. Scratch Notes/Idee.md",
     "2. Mechanics/Bestiary/Monstrosity/Stirge.md",
     "2. Mechanics/Bestiary/Fey/Swamp Dryad.md",
-    "2. Mechanics/Bestiary/Celestial/Rot Angel.md",
     "2. Mechanics/Bestiary/Fey",
-    "2. Mechanics/Bestiary/Monstrosity/Marsh Hydra.md",
     "2. Mechanics/Bestiary/Celestial",
-    "2. Mechanics/Bestiary/Humans/Human Death Cultist.md",
-    "2. Session Journals/Session 8/Camylin - Belduar - Timeline 1.md",
-    "2. Mechanics/Bestiary/Humans/Human Brawler.md",
     "2. Mechanics/Bestiary/Monstrosity",
-    "1. World Almanac/Caldrien/Regionen und Reiche/Die Koalition/Carvahon/Orte/Windfels.md",
-    "2. Session Journals/Session 7/Session 7.md",
-    "1. The Party - Schwarzes Marken/Pandoras Actor.md",
-    "2. Mechanics/Guilds and Groups/Die Obsidiare.md",
-    "1. The Party - Schwarzes Marken/Vladislav.md",
-    "1. The Party - Schwarzes Marken/Adran Iathanar.md",
     "2. Session Journals/Session 8",
     "2. Session Journals/Session 7",
     "2. Session Journals/Session 6/Undtitled",

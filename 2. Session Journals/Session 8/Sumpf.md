@@ -4,7 +4,7 @@
 - Nachdem die Party einige Zeit durch den Sumpf läuft( schwieriges Terrain) werden sie von einem Schwarm Stirges attackiert.
 
 > [!danger]- Stirge Attack  
-> `encounter: 3: Swarm of Stirges`  
+> `encounter: 2: Swarm of Stirges`  
 
 - Die Dryade macht auf sich aufmerksam, falls ein Spieler mal zu tief versinkt: Ranke hilft oder ähnliches.
 
