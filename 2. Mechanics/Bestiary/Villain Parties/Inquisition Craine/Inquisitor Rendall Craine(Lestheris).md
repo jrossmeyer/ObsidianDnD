@@ -4,8 +4,8 @@ size: Medium
 type: Humanoid  
 subtype: Half-Elf  
 alignment: Lawful Evil  
-ac: 12(15 with mage armor)  
-hp: 60  
+ac: 13(16 with mage armor)  
+hp: 70  
 hit_dice: 10d8 + 10  
 speed: 30 ft.  
 stats: [9, 14, 12, 18, 14, 13]  
@@ -36,8 +36,8 @@ traits:
 actions:  
 - [<trait-name>, <trait-description>]
 - [Multiattack, "Craine makes two Grave Grasp or two Necrotic Lance attacks"]
-- [Grave Grasp (Cantrip), "Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (2d6)+1 necrotic damage, and the target can’t regain hit points until the start of Craine’s next turn."]
-- [Necrotic Lance(1st-Level Spell), "Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 9 (2d8)+1 necrotic damage. Craine can destroy a shade under his control within 30 feet of him and deal an extra 4 (1d8) necrotic damage to the target."]
+- [Grave Grasp (Cantrip), "Melee Spell Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d8)+1 necrotic damage, and the target can’t regain hit points until the start of Craine’s next turn."]
+- [Necrotic Lance(1st-Level Spell), "Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 9 (2d8)+1 necrotic damage. Craine can destroy a shade under his control within 30 feet of him and deal an extra 4 (1d8) necrotic damage to the target."]
 - [Animate Spirits (2/Day), "Craine animates two shades. The shades appear in unoccupied spaces Craine can see within 30 feet of him. The shades act immediately after Craine on the same initiative count and follow his verbal orders. If Craine dies, the shades are destroyed."]
 - ...  
   

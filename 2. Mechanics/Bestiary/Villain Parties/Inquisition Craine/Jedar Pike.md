@@ -5,7 +5,7 @@ type: Humanoid
 subtype: Half-Elf  
 alignment: Lawful Evil  
 ac: 15  
-hp: 36  
+hp: 42  
 hit_dice: 6d8 + 5  
 speed: 30 ft.  
 stats: [14, 10, 12, 10, 15, 14]  

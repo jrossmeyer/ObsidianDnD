@@ -10,11 +10,11 @@ hit_dice: 6d8 + 12
 speed: 30 ft.  
 stats: [16, 13, 14, 10, 12, 10]   
 saves:  
-- <ability-score>: number
+- <ability-score>: 
 - Str: 5
 - Con: 4
 skillsaves:  
-- <skill-name>: number
+- <skill-name>: 
 - Athletics: 5
 - Intimidation: 2
 - Perception: 3

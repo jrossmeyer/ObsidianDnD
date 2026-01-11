@@ -1514,7 +1514,7 @@
         ],
         "saves": [
           {
-            "<ability-score>": "number"
+            "<ability-score>": null
           },
           {
             "Str": 5
@@ -1525,7 +1525,7 @@
         ],
         "skillsaves": [
           {
-            "<skill-name>": "number"
+            "<skill-name>": null
           },
           {
             "Athletics": 5
@@ -2024,8 +2024,8 @@
         "type": "Humanoid",
         "subtype": "Half-Elf",
         "alignment": "Lawful Evil",
-        "ac": "12(15 with mage armor)",
-        "hp": 60,
+        "ac": "13(16 with mage armor)",
+        "hp": 70,
         "hit_dice": "10d8 + 10",
         "speed": "30 ft.",
         "stats": [
@@ -2103,11 +2103,11 @@
           },
           {
             "name": "Grave Grasp (Cantrip)",
-            "desc": "Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (2d6)+1 necrotic damage, and the target can’t regain hit points until the start of Craine’s next turn."
+            "desc": "Melee Spell Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d8)+1 necrotic damage, and the target can’t regain hit points until the start of Craine’s next turn."
           },
           {
             "name": "Necrotic Lance(1st-Level Spell)",
-            "desc": "Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 9 (2d8)+1 necrotic damage. Craine can destroy a shade under his control within 30 feet of him and deal an extra 4 (1d8) necrotic damage to the target."
+            "desc": "Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 9 (2d8)+1 necrotic damage. Craine can destroy a shade under his control within 30 feet of him and deal an extra 4 (1d8) necrotic damage to the target."
           },
           {
             "name": "Animate Spirits (2/Day)",
@@ -2137,7 +2137,7 @@
         "subtype": "Half-Elf",
         "alignment": "Lawful Evil",
         "ac": 15,
-        "hp": 36,
+        "hp": 42,
         "hit_dice": "6d8 + 5",
         "speed": "30 ft.",
         "stats": [
@@ -2187,11 +2187,11 @@
           },
           {
             "name": "Warhammer",
-            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage plus 2 (1d4) necrotic damage."
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage plus 2 (1d4) necrotic damage."
           },
           {
             "name": "Nameless Reach (2/Day; 1st Level Spell)",
-            "desc": "Ranged Spell Attack: +4 to hit, range 120 ft., one target. Hit: 14 (4d6) necrotic damage, and the next attack roll made against this target before the end of Jedar’s next turn has advantage."
+            "desc": "Ranged Spell Attack: +5 to hit, range 120 ft., one target. Hit: 14 (4d6) necrotic damage, and the next attack roll made against this target before the end of Jedar’s next turn has advantage."
           },
           {
             "name": "Animate Bones(1/Day)",
@@ -2215,7 +2215,7 @@
         "subtype": "Tiefling",
         "alignment": "Lawful Evil",
         "ac": 14,
-        "hp": 33,
+        "hp": 38,
         "hit_dice": "5d8 + 8",
         "speed": "30 ft.",
         "stats": [
@@ -2297,8 +2297,8 @@
         "type": "Undead",
         "subtype": "Efialtirs Chosen",
         "alignment": "Lawful Evil",
-        "ac": 14,
-        "hp": 50,
+        "ac": 16,
+        "hp": 60,
         "hit_dice": "7d10 + 15",
         "speed": "30 ft.",
         "stats": [
@@ -2335,7 +2335,7 @@
           },
           {
             "name": "Dying Gasp",
-            "desc": "When the Horror dies, they begin to rupture in a vile explosion of viscera and necrotic energy. The creature who reduced the Horror to 0 hit points can make a DC 15 Charisma (Persuasion) check to appeal to Elyas’s departing soul (no action required). On a successful check, his soul transforms the explosion and each enemy of the Grave Order within 30 feet of the Horror gains 7 (2d6) temporary hit points. On a failed check (or if no check is made), each creature within 15 feet of the Horror must make a DC 13 Dexterity saving throw, taking 4 (1d8) acid damage plus 4 (1d8) necrotic damage on a failed save, or half as much damage on a successful one."
+            "desc": "When the Horror dies, they begin to rupture in a vile explosion of viscera and necrotic energy. The creature who reduced the Horror to 0 hit points can make a DC 15 Charisma (Persuasion) check to appeal to Elyas’s departing soul (no action required). On a successful check, his soul transforms the explosion and each enemy of the Grave Order within 30 feet of the Horror gains 7 (2d6) temporary hit points. On a failed check (or if no check is made), each creature within 15 feet of the Horror must make a DC 13 Dexterity saving throw, taking 5 (1d10) acid damage plus 5 (1d10) necrotic damage on a failed save, or half as much damage on a successful one."
           }
         ],
         "actions": [
@@ -2345,11 +2345,11 @@
           },
           {
             "name": "Spine Cleaver",
-            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 13 (2d8 + 4) slashing damage against a grappled target."
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage, or 13 (2d8 + 4) slashing damage against a grappled target."
           },
           {
             "name": "Bone Hook",
-            "desc": "Ranged Weapon Attack: +6 to hit, range 15 ft., one target. Hit: 7 (1d6 + 4) piercing damage. If the target is Medium or smaller, they are grappled (escape DC 14) and the Horror can pull the target up to 15 feet toward them. Until this grapple ends, the Horror can’t make a Bone Hook attack against another target."
+            "desc": "Ranged Weapon Attack: +6 to hit, range 15 ft., one target. Hit: 8 (1d8 + 4) piercing damage. If the target is Medium or smaller, they are grappled (escape DC 14) and the Horror can pull the target up to 15 feet toward them. Until this grapple ends, the Horror can’t make a Bone Hook attack against another target."
           },
           {
             "name": "Valor's Death(BA)",

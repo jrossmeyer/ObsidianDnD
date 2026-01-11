@@ -5,7 +5,7 @@ type: Humanoid
 subtype: Tiefling  
 alignment: Lawful Evil  
 ac: 14 
-hp: 33  
+hp: 38  
 hit_dice: 5d8 + 8  
 speed: 30 ft.  
 stats: [9, 12, 14, 10, 16, 12]  
